@@ -1,5 +1,5 @@
 msg = input('Cheer: ')
 for c in msg:
-    print(c)
+    print('Give me a', c)
 print('What does it spell?', end = '\n')
 print(msg.upper())
